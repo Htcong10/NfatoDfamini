@@ -28,3 +28,4 @@ Author: Vu Thi Diem Quynh 20197100,Nguyen Van Manh 20195088, Ho Trung Cong 20194
 
 * Download beautifulsoup4, a Python library for pulling data out of HTML and XML files.
 * Download lxml parser that provides a very simple and powerful API for parsing XML and HTML.
+* Run Main.py and input file Nfa name
